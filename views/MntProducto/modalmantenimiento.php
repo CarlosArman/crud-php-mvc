@@ -10,7 +10,11 @@
 
                     <div class="form-group">
                         <label class="form-label" for="prod_nombre">Nombre</label>
-                        <input type="text" class="form-control" id="prod_nom" name="prod_nombre" placeholder="Ingrese Nombre" required>
+                        <input type="text" class="form-control" id="prod_nombre" name="prod_nombre" placeholder="Ingrese Nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label" for="prod_descripcion">Descripcion</label>
+                        <input type="text" class="form-control" id="prod_descripcion" name="prod_descripcion" placeholder="Ingrese Descripcion" required>
                     </div>
                 </div>
                 <div class="modal-footer">
